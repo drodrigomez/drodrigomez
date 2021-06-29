@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Daniel Rodriguez!
 
-> Candidate for Master in Technology and Innovation Management at University of La Guajira
-> Systems Engineer graduated at [University of La Guajira](https://www.uniguajira.edu.co/)
-
-<img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
+> Systems Engineer graduated at [University of La Guajira](https://www.uniguajira.edu.co/) and candidate to Master in Technology and Innovation Management from the same University.
 
 I'm a professional in the area of technology who likes to work on all profiles derived and/or related to systems engineering. I have a greater affinity in software development, databases and technology support; being able to design, manage, analyse, solve and support systems, databases and ICTs. I currently handle a basic level of JavaScript, CSS, HTML, English, Git, SQL and MySQL.
 
@@ -60,7 +57,6 @@ I'm a professional in the area of technology who likes to work on all profiles d
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
-<p>
 <img align="left" src="icons/c-sharp-solid.svg" />
 <img align="left" src="icons/dot-net.svg" />
 <img align="left" src="icons/java.svg" />
@@ -73,7 +69,6 @@ I'm a professional in the area of technology who likes to work on all profiles d
 <img align="left" src="icons/bulma.svg" />
 <img align="left" src="icons/bootstrap.svg" />
 <img align="left" src="icons/typescript.svg" />
-</p>
   
 ## 🛠  Technologies and tools
 
@@ -135,11 +130,11 @@ I'm a professional in the area of technology who likes to work on all profiles d
 
 <p align="center">
 <!--<a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a>-->
-<a href="https://www.linkedin.com/in/drodrigomez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/drodrigomez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-drodrigomez-blue?style=flat&logo=linkedin"></a>
 <!--<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>-->
-<a href="mailto:danielj.rodriguezgomez@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-anandmainali5@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:danielj.rodriguezgomez@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-adanielj.rodriguezgomez@yahoo.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-<figure margin="1% auto">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Simplicity+taken+to+the+extreme;becomes+elegance%2C+Jon+Franklin.)](https://git.io/typing-svg)
-</figure>
+<img src="https://komarev.com/ghpvc/?username=dro" alt="drodrigomez" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Simplicity+taken+to+the+extreme;becomes+elegance%2C+Jon+Franklin.)](https://git.io/typing-svg)
