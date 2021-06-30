@@ -1,25 +1,25 @@
 ### Hi there 👋, I'm Daniel Rodriguez!
 
-> Systems Engineer graduated at [University of La Guajira](https://www.uniguajira.edu.co/) and candidate to Master in Technology and Innovation Management from the same University.
+> <p align="justify">Systems Engineer graduated at <a href="https://www.uniguajira.edu.co/">University of La Guajira</a> and candidate to Master in Technology and Innovation Management from the same University.</p>
 
 <p align="justify">
-I'm a professional in the area of technology who likes to work on all profiles derived and/or related to systems engineering. I have a greater affinity in software development, databases and technology support; being able to design, manage, analyse, solve and support systems, databases and ICTs. I currently handle a basic level of JavaScript, CSS, HTML, English, Git, SQL and MySQL.
+<i>I'm a professional in the area of technology who likes to work on all profiles derived and/or related to systems engineering. I have a greater affinity in <b> software development </b>, <b> databases </b> and technology <b> support </b>; being able to design, manage, analyse, solve and support systems, databases and ICTs. I currently handle a basic level of <b> JavaScript </b>, <b> CSS </b>, <b> HTML </b>, <b> English </b>, <b> Git </b>, <b> SQL </b> and <b> MySQL </b>.</i>
 <p>
 
-<h3>Skills</h3>
+<h3><i>Skills</i></h3>
 
-- Teamwork
-- Proactive 
-- Organization
-- Assertive communication
-- Responsibility
-- Excellent disposition
+- <i>Teamwork</i>
+- <i>Proactive</i> 
+- <i>Organization</i>
+- <i>Assertive communication</i>
+- <i>Responsibility</i>
+- <i>Excellent disposition</i>
 
 <br />
 <hr />
 <br />
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Programming Languages and Tools</h3>
 
 <table align="center">
     <tr>
@@ -68,13 +68,13 @@ I'm a professional in the area of technology who likes to work on all profiles d
 <br />
   
 <p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drodrigomez&layout=compact" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drodrigomez&layout=compact&hide_title=true&hide_border=true" />
 </p>
 
 <br />
 
 <p align="center">
-  <img alt="Languages most used in Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=@44aad3c7-9f69-4cb0-b1ed-4b92f4870fa1" />
+  <img alt="Languages most used in Wakatime" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=drodrigomez&hide_title=true&hide_border=true&langs_count=5" />
 </p>
 
 <br />
@@ -93,11 +93,11 @@ I'm a professional in the area of technology who likes to work on all profiles d
 
 <hr />
 
-<p align="center">
-  <!--<img src="https://github.com/username=drodrigomez" alt="drodrigomez" />-->
+<div align="center">
+  <img alt="Profile View drodrigomez" src="https://komarev.com/ghpvc/?username=drodrigomez&&style=flat-square" />
   <img alt="Stars" src="https://img.shields.io/github/stars/drodrigomez/drodrigomez?style=flat-square&labelColor=343b41" />
   <img alt="Forks" src="https://img.shields.io/github/forks/drodrigomez/drodrigomez?style=flat-square&labelColor=343b41" />
-</p>
+</div>
 
 
 
