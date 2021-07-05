@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Daniel Rodriguez!
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel Rodriguez!
 
 > Systems Engineer graduated at [University of La Guajira](https://www.uniguajira.edu.co/) <br />
 > Candidate to Master in Technology and Innovation Management from the same University.
@@ -71,10 +71,15 @@
 <br />
 <br />
 
+<h3 align="center">Activity in GitHub vs Activity in WakaTime<h3>
+
 <div align="center">
 <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drodrigomez&layout=compact&hide_title=true&hide_border=true" />
-<img alt="Languages most used in Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=drodrigomez&hide_title=true&hide_border=true&layout=compact" />
+<img alt="Languages most used in Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=drodrigomez&hide_title=true&disable_animations=false&layout=compact" />
 </div>
+    
+<br />
+<br />
 
 <h3 align="center" >For more information, contact me at 💬</h3>
 
