@@ -71,12 +71,16 @@
 <br />
 <br />
 
-<h3 align="center">Activity in GitHub vs Activity in WakaTime<h3>
-
 <div align="center">
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drodrigomez&layout=compact&hide_title=true&hide_border=true" />
+<h3>Activity in GitHub<h3>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drodrigomez&layout=compact&hide_title=true&hide_border=true" align="center" />
+</div>
+<br />
+<div align="center">
+<h3>Activity in WakaTime<h3>
 <img alt="Languages most used in Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=drodrigomez&hide_title=true&disable_animations=false&layout=compact" />
 </div>
+
     
 <br />
 <br />
