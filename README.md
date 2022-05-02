@@ -1,7 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Daniel Rodriguez!
 
-> Systems Engineer graduated at [University of La Guajira](https://www.uniguajira.edu.co/) <br />
-> Candidate to Master in Technology and Innovation Management from the same University.
+> Systems Engineer graduated at [University of La Guajira](https://www.uniguajira.edu.co/)
 
 <p align="justify">
 <i>I'm a professional in the area of technology who likes to work on all profiles derived and/or related to systems engineering. I have a greater affinity in <b> software development </b>, <b> databases </b> and technology <b> support </b>; being able to design, manage, analyse, solve and support systems, databases and ICTs. I currently handle a basic level of <b> JavaScript </b>, <b> CSS </b>, <b> HTML </b>, <b> English </b>, <b> Git </b>, <b> SQL </b> and <b> MySQL </b>.</i>
